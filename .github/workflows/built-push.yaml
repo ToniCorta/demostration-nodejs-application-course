@@ -7,7 +7,7 @@ on:
 
 jobs:
   built-push:
-    runs-on: ubuntu-last
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout code
